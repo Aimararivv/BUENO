@@ -1,4 +1,5 @@
 using libreriaXAGFRRR.Data;
+using libreriaXAGFRRR.Data.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +35,8 @@ namespace libreriaXAGFRRR
             services.AddControllers();
             //Configurar DBContext con SQL
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
+            //Configurar el servicio para que pueda ser usado
+            services.AddTransient<BooksService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "libreriaXAGFRRR", Version = "v1" });
@@ -60,6 +63,7 @@ namespace libreriaXAGFRRR
             {
                 endpoints.MapControllers();
             });
+            AppDbInitializer.Seed(app);
         }
     }
 }

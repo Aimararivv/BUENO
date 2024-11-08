@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace libreriaXAGFRRR.Data.Models
+namespace libreriaXAGFRRR.Data.ViewModels
 {
-    public class Book
+    public class BookVM
     {
         public int id { get; set; }
         public string Titulo { get; set; }

@@ -51,15 +51,11 @@ C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXA
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\scopedcss\bundle\libreriaXAGFRRR.styles.css
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\libreriaXAGFRRR.StaticWebAssets.Manifest.cache
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\libreriaXAGFRRR.StaticWebAssets.Pack.cache
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\msbuild.libreriaXAGFRRR.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\msbuild.build.libreriaXAGFRRR.props
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.libreriaXAGFRRR.props
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.libreriaXAGFRRR.props
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.RazorTargetAssemblyInfo.cache
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.csproj.CopyComplete
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.dll
-C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\refint\libreriaXAGFRRR.dll
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.pdb
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\libreriaXAGFRRR.genruntimeconfig.cache
 C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\ref\libreriaXAGFRRR.dll
+C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\bin\Debug\net5.0\ref\libreriaXAGFRRR.dll
+C:\Users\cisco01\Downloads\AwosXAGFR\libreriaXAGFRRR\obj\Debug\net5.0\staticwebassets\libreriaXAGFRRR.StaticWebAssets.xml
